@@ -44,7 +44,7 @@
   position: absolute;
   right: 14px;
   top: 10px;
-  background-image: url('/ll.jpg');
+  background-image: url('ll.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   border: 1px solid white;
@@ -87,24 +87,24 @@
 }
 /* slider4-image */
 .b1{
-  background-image: url('/img1.jpg');
+  background-image: url('img1.jpg');
   background-size: cover;
   
 }
 .b2{
-  background-image: url('/img2.jpg');
+  background-image: url('img2.jpg');
   background-size: cover;
 }
 .b3{
-  background-image: url('/img3.jpg');
+  background-image: url('img3.jpg');
   background-size: cover;
 }
 .b4{
-  background-image: url('/img4.jpg');
+  background-image: url('img4.jpg');
   background-size: cover;
 }
 .b5{
-  background-image: url('/img5.jpg');
+  background-image: url('img5.jpg');
   background-size: cover;
 }
 
@@ -155,40 +155,40 @@
 }
 /* slider5-image */
 .v1{
-  background-image: url('/pic9.jpg');
+  background-image: url('pic9.jpg');
   background-size: cover;
   
 }
 .v2{
-  background-image: url('/pic2.jpg');
+  background-image: url('pic2.jpg');
   background-size: cover;
 }
 .v3{
-  background-image: url('/pic3.jpg');
+  background-image: url('pic3.jpg');
   background-size: cover;
 }
 .v4{
-  background-image: url('/pic4.jpg');
+  background-image: url('pic4.jpg');
   background-size: cover;
 }
 .v5{
-  background-image: url('/pic5.jpg');
+  background-image: url('pic5.jpg');
   background-size: cover;
 }
 .v6{
-  background-image: url('/pic1.jpg');
+  background-image: url('pic1.jpg');
   background-size: cover;
 }
 .v7{
-  background-image: url('/pic7.jpg');
+  background-image: url('pic7.jpg');
   background-size: cover;
 }
 .v8{
-  background-image: url('/pic8.jpg');
+  background-image: url('pic8.jpg');
   background-size: cover;
 }
 .v9{
-  background-image: url('/pic9.jpg');
+  background-image: url('pic9.jpg');
   background-size: cover;
 }
 
@@ -201,7 +201,7 @@
   bottom: 16px;
   left: 10px;
   border-radius: 10px;
-  background-image: url('/thm14.jpg');
+  background-image: url('thm14.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   
@@ -351,7 +351,7 @@ slider .menu3{
   height: 50%;
   width: 95%;
   background-color: red;
-  background-image: url('/thm1.jpg');
+  background-image: url('thm1.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   border: 1.3px solid white;
@@ -361,7 +361,7 @@ slider .menu3{
   height: 50%;
   width: 95%;
   background-color: red;
-  background-image: url('/thm2.jpg');
+  background-image: url('thm2.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   border: 1.3px solid white;
@@ -371,7 +371,7 @@ border-radius: 12px;
   height: 50%;
   width: 95%;
   background-color: red;
-  background-image: url('/thm4.jpg');
+  background-image: url('thm4.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   border: 1.3px solid white;
@@ -381,7 +381,7 @@ border-radius: 12px;
   height: 50%;
   width: 95%;
   background-color: red;
-  background-image: url('/thm15.jpg');
+  background-image: url('thm15.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   border: 1.3px solid white;
@@ -391,7 +391,7 @@ border-radius: 12px;
   height: 50%;
   width: 95%;
   background-color: red;
-  background-image: url('/thm16.jpg');
+  background-image: url('thm16.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   border: 1.3px solid white;
@@ -401,7 +401,7 @@ border-radius: 12px;
   height: 50%;
   width: 95%;
   background-color: red;
-  background-image: url('/thm13.jpg');
+  background-image: url('thm13.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   border: 1.3px solid white;
@@ -411,7 +411,7 @@ border-radius: 12px;
   height: 50%;
   width: 95%;
   background-color: red;
-  background-image: url('/thm10.jpg');
+  background-image: url('thm10.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   border: 1.3px solid white;
@@ -484,7 +484,7 @@ border-radius: 12px;
   height: 50%;
   width: 95%;
   background-color: red;
-  background-image: url('/dnl1.jpg');
+  background-image: url('dnl1.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   border: 1.3px solid white;
@@ -517,7 +517,7 @@ border-radius: 12px;
   height: 50%;
   width: 95%;
   background-color: red;
-  background-image: url('/dnl2.jpg');
+  background-image: url('dnl2.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   border: 1.3px solid white;
@@ -551,7 +551,7 @@ border-radius: 12px;
   height: 50%;
   width: 95%;
   background-color: red;
-  background-image: url('/dnl3.jpg');
+  background-image: url('dnl3.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   border: 1.3px solid white;
@@ -585,7 +585,7 @@ border-radius: 12px;
   height: 50%;
   width: 95%;
   background-color: red;
-  background-image: url('/dnl4.jpg');
+  background-image: url('dnl4.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   border: 1.3px solid white;
@@ -618,7 +618,7 @@ border-radius: 12px;
   height: 50%;
   width: 95%;
   background-color: red;
-  background-image: url('/dnl5.jpg');
+  background-image: url('dnl5.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   border: 1.3px solid white;
@@ -651,7 +651,7 @@ border-radius: 12px;
   height: 50%;
   width: 95%;
   background-color: red;
-  background-image: url('/dnl6.jpg');
+  background-image: url('dnl6.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   border: 1.3px solid white;
@@ -684,7 +684,7 @@ border-radius: 12px;
   height: 50%;
   width: 95%;
   background-color: red;
-  background-image: url('/dnl7.jpg');
+  background-image: url('dnl7.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   border: 1.3px solid white;
@@ -717,7 +717,7 @@ border-radius: 12px;
   height: 50%;
   width: 95%;
   background-color: red;
-  background-image: url('/dnl8.jpg');
+  background-image: url('dnl8.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   border: 1.3px solid white;
@@ -750,7 +750,7 @@ border-radius: 12px;
   height: 50%;
   width: 95%;
   background-color: red;
-  background-image: url('/dnl9.jpg');
+  background-image: url('dnl9.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   border: 1.3px solid white;
@@ -783,7 +783,7 @@ border-radius: 12px;
   height: 50%;
   width: 95%;
   background-color: red;
-  background-image: url('/dnl10.jpg');
+  background-image: url('dnl10.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   border: 1.3px solid white;
@@ -816,7 +816,7 @@ border-radius: 12px;
   height: 50%;
   width: 95%;
   background-color: red;
-  background-image: url('/thm5.jpg');
+  background-image: url('thm5.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   border: 1.3px solid white;
@@ -927,7 +927,7 @@ border-radius: 12px;
   top: 65px;
   left: 22px;
   border-radius: 20px;
-  background-image: url('/img1.jpg');
+  background-image: url('img1.jpg');
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -1016,7 +1016,7 @@ p{
   top: 65px;
   left: 22px;
   border-radius: 20px;
-  background-image: url('/img2.jpg');
+  background-image: url('img2.jpg');
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -1106,7 +1106,7 @@ p{
   top: 65px;
   left: 22px;
   border-radius: 20px;
-  background-image: url('/img3.jpg');
+  background-image: url('img3.jpg');
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -1196,12 +1196,12 @@ p{
   top: 65px;
   left: 22px;
   border-radius: 20px;
-  background-image: url('/img4.jpg');
+  background-image: url('img4.jpg');
   background-size: cover;
   background-repeat: no-repeat;
 }
 .them5{
-   background-image: url('/img5.jpg');
+   background-image: url('img5.jpg');
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -1251,7 +1251,7 @@ p{
   top: 117%;
   left: 22px;
   border-radius: 100px;
-  background-image: url('/thm3.jpg');
+  background-image: url('thm3.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   border: 1.3px solid white;
@@ -1264,7 +1264,7 @@ p{
   top: 117%;
   right: 22px;
   border-radius: 100px;
-  background-image: url('/thm11.jpg');
+  background-image: url('thm11.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   border: 1.3px solid white;
@@ -1277,7 +1277,7 @@ p{
   top: 147%;
   right: 22px;
   border-radius: 100px;
-  background-image: url('/thm12.jpg');
+  background-image: url('thm12.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   border: 1.3px solid white;
@@ -1290,7 +1290,7 @@ p{
   top: 187%;
   left: 10px;
   border-radius: 10px;
-  background-image: url('/thm10.jpg');
+  background-image: url('thm10.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   border: 1.3px solid white;
